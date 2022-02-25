@@ -1,0 +1,58 @@
+body
+{
+  color: #EFCC9C;
+  background: #AE728D;
+  display: flex;
+  align-content: center;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed #FFF5D1;
+  width: 350px;
+  height: 300px;
+}
+.object_name
+{
+  font-size: 40px;
+}
+.gesture_icon
+{
+  font-size:48px;
+}
+.heading
+{
+  
+  font-size: 30px;
+  border-radius: 10px;
+  letter-spacing: 10px;
+}
+label
+{
+  font-size: 14px;
+  padding: 6px;
+  color: #FFF5D1;
+  border-radius: 10px;
+  background-color: #EFCC9C;
+}
+
+.container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    
+}
+
+.btn-btn{
+    color: #FFF5D1;
+    background-color: #6EA2BB;
+}
+
+.btn-butn{
+    color: #FFF5D1;
+    background-color: #78C6D1;
+}
